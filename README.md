@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vetrivel-6401
 - 👀 I’m interested data engineering..
-- 🌱 I’m currently data engineering concepts
+- 🌱 I’m currently learning data engineering concepts
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email: vetrivel6401@gmail.com ...
 
