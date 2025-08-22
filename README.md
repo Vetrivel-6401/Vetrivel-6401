@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Vetrivel-6401
-- 👀 I’m interested Data Analyst Roles..
-- 🌱 I’m currently learning data Analysis concepts
-- 💞️ I’m looking to collaborate on ...
-- 📫 Email: vetrivel6401@gmail.com ...
+👋 Hi, I’m Vetrivel
 
-<!---
-Vetrivel-6401/Vetrivel-6401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in Data Analyst Roles, with experience in analyzing business data and building interactive dashboards.
+
+🌱 Currently strengthening my expertise in Python, SQL, Power BI, and Data Visualization to deliver insights that drive decision-making.
+
+💡 I have worked on projects involving ETL pipelines, reporting automation, and dashboard development.
+
+💞️ I’m looking to collaborate on data analysis, reporting automation, and business intelligence projects.
+
+📫 Reach me at: vetrivel6401@gmail.com
